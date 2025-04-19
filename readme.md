@@ -76,13 +76,14 @@ A full-stack web application connecting students from underprivileged background
 
 ### Clone the repository:
 
-    ```bash
-    git clone https://github.com/KanakGupta1208/hack.git
-    cd education/server
-    
-    ```
+```bash
+git clone https://github.com/KanakGupta1208/hack.git
+cd education/server
+
+```
     
 ### Install dependencies:
+
   ```bash
   npm install
 
@@ -145,8 +146,8 @@ root
 │   └── zego.js
 ├── middleware/       # Authentication middleware
 │   └── authMiddleware.js
-server/
-└── index.js          # Server entry point
+├── server/
+    └── index.js          # Server entry point
 ```
 
 ### Frontend (SkillBridge/frontend/src/)
