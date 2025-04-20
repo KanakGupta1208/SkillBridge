@@ -4,8 +4,8 @@
 
 ## Team name: Innovators
     1. Kanak gupta
-    2. Chaitanya sharma
-    3. Aadarsh dangi
+    2. Aadarsh dangi
+    3. Chaitanya sharma
     4. Aditya giri
 
 ---
