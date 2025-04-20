@@ -1,3 +1,10 @@
+<h1 align="center">Hack36 Template Readme</h1>
+<p align="center">
+</p>
+
+<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=24px> </a>
+
+
 ## SkillBridge : Real-Time Microlearning Platform for Underserved Communities
 A full-stack web application connecting students from underprivileged backgrounds with mentors for instant doubt-solving sessions through real-time Q&A, video calls, AI chatbot fallback, and feedback.
 
