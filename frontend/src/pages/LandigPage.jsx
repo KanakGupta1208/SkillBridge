@@ -66,7 +66,7 @@ const LandingPage = () => {
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
             <span className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">
-              EduConnect
+              SkillBridge
             </span>
           </Link>
 
