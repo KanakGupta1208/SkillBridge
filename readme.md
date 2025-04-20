@@ -1,9 +1,14 @@
-<h1 align="center">Hack36 Template Readme</h1>
-<p align="center">
-</p>
-
 <a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=24px> </a>
 
+---
+
+## Team name: Innovators
+    1. Aditya giri
+    2. Chaitanya sharma
+    3. Kanak gupta
+    4. Aadarsh dangi
+
+---
 
 ## SkillBridge : Real-Time Microlearning Platform for Underserved Communities
 A full-stack web application connecting students from underprivileged backgrounds with mentors for instant doubt-solving sessions through real-time Q&A, video calls, AI chatbot fallback, and feedback.
@@ -47,7 +52,12 @@ A full-stack web application connecting students from underprivileged background
 ---
 
 ### Video Demo
-<a href=""><img src="https://imgs.search.brave.com/H330hjXg0E35DY7KPYi5ItE21yGS7qaIlfM-HpFD67Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2ZkL1lvdVR1YmVf/ZnVsbC1jb2xvcl9p/Y29uXygyMDI0KS5z/dmc" width="50"></a>
+<a href="https://youtu.be/J8CiMmea1tU"><img src="https://imgs.search.brave.com/H330hjXg0E35DY7KPYi5ItE21yGS7qaIlfM-HpFD67Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2ZkL1lvdVR1YmVf/ZnVsbC1jb2xvcl9p/Y29uXygyMDI0KS5z/dmc" width="50"></a>
+
+---
+
+## Presentation Link:
+  <a href="https://docs.google.com/presentation/d/1XDBDNdY0rnLMJMaRQQ7hPA4cxXfJvmO5oBLRIe4mbng/edit?usp=sharing"> PPT link here </a>
 
 ---
 
